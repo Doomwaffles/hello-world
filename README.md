@@ -1,5 +1,3 @@
 # hello-world
 
-Hey.
-
-I'm just trying to learn how to program so I can make games.
+i'm doing my best but it's not very good
